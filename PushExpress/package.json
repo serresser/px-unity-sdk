@@ -1,0 +1,21 @@
+{
+    "name": "com.pushexpress.sdk",
+    "version": "1.0.0",
+    "displayName": "Push Express",
+    "description": "This package allows integration with the Push Express service.",
+    "unity": "2021.3",
+    "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.0.*"
+    },
+    "keywords": [
+      "custom",
+      "unity",
+      "package",
+      "push notifications",
+      "push express"
+    ],
+    "author": {
+      "name": "Push Express",
+      "url": "https://push.express/"
+    }
+  }
