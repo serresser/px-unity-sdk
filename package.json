@@ -5,7 +5,7 @@
     "description": "This package allows integration with the Push Express service.",
     "unity": "2021.3",
     "dependencies": {
-      "com.unity.nuget.newtonsoft-json": "3.0.*"
+      "com.unity.nuget.newtonsoft-json": "3.0.2"
     },
     "keywords": [
       "custom",
