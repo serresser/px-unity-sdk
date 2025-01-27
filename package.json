@@ -6,7 +6,7 @@
     "unity": "2021.3",
     "dependencies": {
       "com.unity.nuget.newtonsoft-json": "3.0.2",
-      "com.google.firebase.messaging": "12.4.0"
+      "com.google.firebase.messaging": "11.4.0"
     },
     "keywords": [
       "custom",
