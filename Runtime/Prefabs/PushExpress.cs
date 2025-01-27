@@ -23,7 +23,6 @@
 // PS. You can always refer to Firebase Messaging documentation for additional info
 // PS2. Push notification images work by default, you don't need to do anything!
 
-using AppsFlyerSDK;
 using Firebase.Messaging;
 using Newtonsoft.Json;
 using System;
