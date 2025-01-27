@@ -1,4 +1,5 @@
 // Unity Push.Express plugin was developed by eSkukza Apps4You 17.06.24
+// update 14.12.24 - v1.3
 // Original plugin by Hek
 // Tested on Unity v2022.3.32f1
 // Apps4You Telegram: @apps4you_rent
